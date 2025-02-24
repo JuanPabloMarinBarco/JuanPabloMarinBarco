@@ -116,8 +116,8 @@
 <br>
 
 <li>
-<a href="mailto:[TuEmail]" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  [TuEmail]-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:[marinbarcojuanpablo]" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  [marinbarcojuanpablo@gmail.com]-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
