@@ -100,8 +100,8 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/[juan-pablo-marin-barco]" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  [https://www.linkedin.com/in/juan-pablo-marin-barco-3686672ba/]-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://linkedin.com/in/[https://www.linkedin.com/in/juan-pablo-marin-barco-3686672ba/]" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  [Juan Pablo Marin]-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
